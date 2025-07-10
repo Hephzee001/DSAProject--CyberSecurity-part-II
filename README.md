@@ -28,3 +28,8 @@
 
 - Other Artifacts: Additional incriminating data to support investigation report.
 
+
+ ### Tools Used
+ ---
+- Autopsy
+ 
