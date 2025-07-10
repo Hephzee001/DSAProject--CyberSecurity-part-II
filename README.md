@@ -12,3 +12,18 @@
 
  Forensics investigation Report.
 
+
+ ### Features
+ ---
+ The forensic image includes the following types of simulated evidence:
+
+ - Text Messages: Conversations containing suspicious discussions.
+
+ - Cryptocurrency Wallet Address: Evidence of transactions tied to
+
+   internet fraud.
+
+- Call Logs: list of call logs linked to fraudulent activities.
+
+- Other Artifacts: Additional incriminating data to support investigation report.
+
