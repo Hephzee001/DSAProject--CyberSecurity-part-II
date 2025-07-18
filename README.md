@@ -36,7 +36,7 @@
  
 
 
-### Forensic Image Exploration and Extraction
+### Methodology
 ---
 This phase involves the exploration and the extraction of evidences such as;
 
