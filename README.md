@@ -16,7 +16,7 @@
 
  ### Features
  ---
- The forensic image includes the following types of simulated evidence:
+ The forensic image includes the following types of simulated evidences:
 
  - Text Messages: Conversations containing suspicious discussions.
 
@@ -32,4 +32,5 @@
  ### Tools Used
  ---
 - Autopsy
+- 7 zip
  
