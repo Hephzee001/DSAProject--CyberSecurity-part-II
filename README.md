@@ -32,7 +32,7 @@
  ### Tools Used
  ---
 - Autopsy
-- 7 zip
+- 7zip
  
 
 
