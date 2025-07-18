@@ -48,6 +48,15 @@ This phase involves the exploration and the extraction of evidences such as;
 
    -Adding the extracted image as a data source.
 
-  -Investigating the evidences using Autopsy analysis tool.    
+  -Investigating the evidences using Autopsy analysis tool.
+
+
+
+  
+ ### Conclusion
+
+ The forensic analysis of the suspect's Android device has proven that the suspect is involved in fraudulent activities
+ based on evidences  gathered such as the call logs, contact list, sms logs, images, crypto wallet and other arti-
+ facts.
   
 
