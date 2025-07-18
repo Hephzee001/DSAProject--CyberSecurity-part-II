@@ -56,8 +56,11 @@ This phase involves the exploration and the extraction of evidences such as;
  ### Conclusion
 
  The forensic analysis of the suspect's Android device has proven that the suspect is involved in 
+
  fraudulent activities.
+
  Based on evidences  gathered such as the call logs, contact list, sms logs, images, crypto wallet 
+
  and other artifacts.
  
   
