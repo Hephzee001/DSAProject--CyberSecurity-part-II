@@ -62,6 +62,17 @@ This phase involves the exploration and the extraction of evidences such as;
  Based on evidences  gathered such as the call logs, contact list, sms logs, images, crypto wallet 
 
  and other artifacts.
+
+
+
+  ### Recomendation
+  This analysis is recomended for mobile monitoring enhancment and vetting of Apps to ensure the
+  
+  cyber space is secured and safe for users.
+
+  Public awareness of cyber crimes in different forms.
+
+  Also for provision of guidelines on how to detect phishing attempts and wallet fraud. 
  
   
 
