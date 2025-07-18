@@ -34,3 +34,20 @@
 - Autopsy
 - 7 zip
  
+
+
+### Forensic Image Exploration and Extraction
+---
+This phase involves the exploration and the extraction of evidences such as;
+
+- Extraction of the Android image using extraction tool such as 7zip
+
+- Analyzing the image using Autopsy such as:
+
+  -Opening of Autopsy and creating a new case.
+
+   -Adding the extracted image as a data source.
+
+  -Investigating the evidences using Autopsy analysis tool.    
+  
+
